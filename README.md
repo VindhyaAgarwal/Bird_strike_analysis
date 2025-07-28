@@ -3,14 +3,21 @@
 <img width="1911" height="852" alt="Bird_app" src="https://github.com/user-attachments/assets/9229b30e-16fe-4313-8046-e83f6213986b" />
 
 
-A Streamlit application for analyzing historical bird strike data and predicting potential aircraft damage using machine learning.
+## About This Project
+ a Streamlit-powered dashboard that:
 
-## Features
+- 📊 Analyzes historical bird strike data
+- 🤖 Predicts aircraft damage risk using XGBoost
+- 📈 Generates interactive visualizations
+- ✈️ Helps aviation professionals mitigate wildlife hazards
 
-- Interactive data exploration
-- Damage prediction using XGBoost
-- Visualization dashboard
-- Model performance metrics
+**Key Features:**
+- Data exploration tools
+- Machine learning modeling
+- 12+ interactive charts
+- Model interpretability (Permutation importance)
+
+Built with: `Python` `Streamlit` `Pandas` `XGBoost` `Plotly`
 
 ## Installation
 
