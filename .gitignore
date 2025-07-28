@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+venv/
+
+# Data
+*.csv
+*.pkl
+*.pickle
+*.db
+
+# Streamlit
+.streamlit/
+secrets.toml
+
+# IDE
+.idea/
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
